@@ -22,3 +22,4 @@ sources:
         - name: sales_reports
         - name: shippers
         - name: strings
+        - name: suppliers
